@@ -1,0 +1,3 @@
+#define FUNCAO_CONJUNTOS_DISJUNTOS conjuntos_disjuntos_eficiente
+
+#include "testes_conjuntos_disjuntos.h"
